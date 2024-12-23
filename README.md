@@ -66,6 +66,12 @@ Run the following command to start the script:
 go run main.go --config=config.yaml
 ```
 
+Or download the binary file and run it.
+
+```bash
+./clone-group-gitlab --config=config.yaml
+```
+
 ## Example Result
 
 ### Screenshots

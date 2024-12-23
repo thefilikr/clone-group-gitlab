@@ -66,6 +66,12 @@ per_page: 50 # Количество элементов на страницу
 go run main.go --config=config.yaml
 ```
 
+Или скачайте бинайрный файл и запустите его
+
+```bash
+./clone-group-gitlab --config=config.yaml
+```
+
 ## Пример результата
 
 ### Скриншоты
