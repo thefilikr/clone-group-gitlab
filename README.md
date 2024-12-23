@@ -73,8 +73,8 @@ go run main.go --config=config.yaml
 On the left, you can see the structure of groups and subgroups in GitLab, and on the right, the corresponding local directory structure after cloning.
 
 <p align="center">
-  <img src="./images/gitlab_structure.png" alt="GitLab Structure" width="45%">
-  <img src="./images/local_structure.png" alt="Local Structure" width="45%">
+  <img src="./img/gitlab_structure.png" alt="GitLab Structure" width="45%">
+  <img src="./img/local_structure.png" alt="Local Structure" width="45%">
 </p>
 
 ## Notes

@@ -73,8 +73,8 @@ go run main.go --config=config.yaml
 На изображении слева представлена структура групп и подгрупп в GitLab, а справа — соответствующая локальная структура каталогов.
 
 <p align="center">
-  <img src="./images/gitlab_structure.png" alt="GitLab Structure" width="45%">
-  <img src="./images/local_structure.png" alt="Local Structure" width="45%">
+  <img src="./img/gitlab_structure.png" alt="GitLab Structure" width="45%">
+    <img src="./img/local_structure.png" alt="Local Structure" width="45%">
 </p>
 
 ## Примечания
